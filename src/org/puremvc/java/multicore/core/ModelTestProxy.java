@@ -1,3 +1,9 @@
+/*
+ PureMVC Java MultiCore Unit Tests by Ima OpenSource <opensource@ima.eu>
+ Maintained by Anthony Quinault <anthony.quinault@puremvc.org>
+ PureMVC - Copyright(c) 2006-08 Futurecale, Inc., Some rights reserved.
+ Your reuse is governed by Creative Commons Attribution 2.5 License
+ */
 package org.puremvc.java.multicore.core;
 
 import org.puremvc.java.multicore.patterns.proxy.Proxy;
