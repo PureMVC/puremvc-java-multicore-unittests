@@ -2,14 +2,14 @@
 These are the unit tests for the current PureMVC MultiCore Framework for Java.
 
 * [Discussion](http://forums.puremvc.org/index.php?topic=743.0)
-* [Test Results](http://darkstar.puremvc.org/content_header.html?url=http://puremvc.org/pages/docs/Java/standard-unit-test-reports/&desc=PureMVC%20Unit%20Tests%20MultiCore%20for%20Java)
+* [Test Results](http://puremvc.org/pages/docs/Java/standard-unit-test-reports/)
 
 ## Status
 Production - [Version 1.0.6](https://github.com/PureMVC/puremvc-java-multicore-unittests/blob/master/VERSION)
 
 ## Platforms / Technologies
 * [JUnit](https://github.com/KentBeck/junit)
-* [Java](http://en.wikipedia.org/wiki/Java_(programming_language\))
+* [Java](http://en.wikipedia.org/wiki/Java_\(programming_language\))
 
 ## Features 
 Tested are ...
